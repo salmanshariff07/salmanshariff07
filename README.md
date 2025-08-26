@@ -7,9 +7,10 @@ to make work life a bit smoother and way more fun.
 </p>
 
 
-😎 Think of me as a business strategist with a magnifying glass powered by data.
 
 I am Salman Shariff, a results-driven and passionate Data Enthusiast, on a mission to transform raw data into powerful, actionable business insights that fuel strategic decisions and measurable growth. I equipped myself with tools like Power BI, Advanced Excel, VBA, SQL, Python, and SSIS tools that helped me not just analyze data but truly understand it. I’ve used data to answer business questions, solve operational challenges, and support growth strategies. 
+
+
 
 
 ## 🧩 What You’ll Discover Here
