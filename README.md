@@ -13,20 +13,20 @@ I am Salman Shariff, a results-driven and passionate Data Enthusiast, on a missi
 
 
 
-## 🧩 What You’ll Discover Here
+# 🧩 What You’ll Discover Here
 - 🛠️ **Projects I’m working on or contributing to**
 - 🔍 **Lessons learned from debugging marathons & tight deadlines**
 - 🌱 **Motivation for navigating (and thriving in) the tech jungle**
 
 
-## 🌟 About Me
+# 🌟 About Me
 - 💻 I love creating things that solve real-world problems  
 - 📚 Always exploring new tools and frameworks  
 - 🤝 Open to collaborations and cool ideas  
 - ☕ Runs on coffee & curiosity  
 
 
-## 🌐 Let’s Connect
+# 🌐 Let’s Connect
 <p align="center">
   <a href="https://linkedin.com/in/salman-analyst"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/salman_tasneem_07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
